@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
 ## Explanation of the Code
 State Management with Provider:
 
@@ -75,4 +66,8 @@ For iOS: Add this to your Info.plist:
 <key>NSCameraUsageDescription</key>
 <string>We need access to your camera for video calls</string>
 Run on a Physical Device:
+
 Camera functionality works only on physical devices, not on emulators.
+
+## Demo Video
+https://github.com/user-attachments/assets/7f213335-6f9b-4929-9ca3-9f6b776bf22c
